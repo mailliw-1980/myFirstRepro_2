@@ -1,3 +1,6 @@
+# Hello World, welcome to my web page
+- this a new repo location
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mailliw-1980/myFirstRepro_2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
